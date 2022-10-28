@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "Tuan9",
+    "slug": "Tuan9",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
