@@ -8,6 +8,9 @@ export default function HomeScreen({navigation}) {
       <Button title='Bài 2' onPress={()=> navigation.navigate("Bai2")}/>
       <Button title='Bài 3' onPress={()=> navigation.navigate("Bai3")}/>
       <Button title='Bài 4' onPress={()=> navigation.navigate("Bai4")}/>
+      <Button title='Bài 5' onPress={()=> navigation.navigate("Bai5")}/>
+      <Button title='Bài 6' onPress={()=> navigation.navigate("Bai6")}/>
+      <Button title='Bài 7' onPress={()=> navigation.navigate("Bai7")}/>
     </View>
   )
 }
